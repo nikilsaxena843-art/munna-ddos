@@ -15,7 +15,7 @@ from pymongo import MongoClient
 
 # ============ CONFIGURATION ============
 BOT_START_TIME = datetime.now()
-BOT_TOKEN = "8605227239:AAHYM5VlumiMshiMKtggjCmw5Z71b6vmrQg"
+BOT_TOKEN = "8605227239:AAHYM5VlumiMstggjCmw5Z71b6vmrQg"
 MONGO_URL = "mongodb+srv://nikilsaxena843_db_user:3gF2wyT4IjsFt0cY@vipbot.puv6gfk.mongodb.net/?appName=vipbot"
 FLARESOLVERR_URL = "http://13.60.36.54:8191/v1"
 
